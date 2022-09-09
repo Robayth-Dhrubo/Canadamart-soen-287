@@ -1,0 +1,39 @@
+@font-face {
+  font-family: "bootstrap-icons";
+  src: url("./fonts/bootstrap-icons.woff?4601c71fb26c9277391ec80789bfde9c") format("woff"),
+url("./fonts/bootstrap-icons.woff2?4601c71fb26c9277391ec80789bfde9c") format("woff2");
+}
+[class^="bi-"]::before, [class*=" bi-"]::before {line-height: 1.5;}
+#btn-favorite:hover .bi-heart::before{content: "\f3f5"; color:#eb4d4b;}
+
+@media (min-width: 576px) {
+
+  #searchCol {
+    display: block;
+  }
+}
+
+@media (min-width: 768px) {
+  #aisles {
+    display: block;
+  }
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type=number] {
+  -moz-appearance: textfield;
+}
+
+.bar {
+  width: 96px;
+  height: 5px;
+}
+
+.cart-item-img {
+  width: 100px;
+}

@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+  
+  <product>
+    <id>21</id>
+    <image>https://product-images.metro.ca/images/hc6/hab/9185718140958.jpg</image>
+    <brand>Butter Ball</brand>
+    <name>Frozen Turkey</name>
+    <weight>5-7kg</weight>
+    <description>The best turkey to make your sandwiches with</description>
+    <price>7.91</price>
+    <type>Meat</type>
+    <storagetype>Fridge</storagetype>
+  </product>
+  <product>
+    <id>22</id>
+    <image>https://product-images.metro.ca/images/h2c/h9e/9188502241310.jpg</image>
+    <brand>Shwartz's</brand>
+    <name>Ground Beef</name>
+    <weight>444g</weight>
+    <description>Our beef makes the juiciest burgers</description>
+    <price>17.60</price>
+    <type>Meat</type>
+    <storagetype>Fridge</storagetype>
+  </product>
+  <product>
+    <id>23</id>
+    <image>https://product-images.metro.ca/images/h7f/had/9233874059294.jpg</image>
+    <brand>Publix</brand>
+    <name>Boneless Chicken Breast</name>
+    <weight>1kg</weight>
+    <description>Guarantee to satisfy your desires</description>
+    <price>17.62</price>
+    <type>Meat</type>
+    <storagetype>Fridge</storagetype>
+  </product>
+  <product>
+    <id>24</id>
+    <image>https://product-images.metro.ca/images/hdd/h41/9233920098334.jpg</image>
+    <brand>The Lamb Companu</brand>
+    <name>Lamb Rack</name>
+    <weight>3kg</weight>
+    <description>Make that special dinner for a special some one</description>
+    <price>66.12</price>
+    <type>Meat</type>
+    <storagetype>Fridge</storagetype>
+  </product>
+  <product>
+    <id>25</id>
+    <image>https://product-images.metro.ca/images/h91/hca/8884587233310.jpg</image>
+    <brand>Toupie</brand>
+    <name>Ham</name>
+    <weight>300g</weight>
+    <description>Satisfy that craving for ham</description>
+    <price>9.46</price>
+    <type>Meat</type>
+    <storagetype>Fridge</storagetype>
+  </product>
+  <product>
+    <id>26</id>
+    <image>https://product-images.metro.ca/images/h3a/h02/8886412705822.jpg</image>
+    <brand>Angus</brand>
+    <name>Pepper Beef Steak</name>
+    <weight>2-4kg</weight>
+    <description>Perfect for the grill</description>
+    <price>24.23</price>
+    <type>Meat</type>
+    <storagetype>Fridge</storagetype>
+  </product>
+  <product>
+    <id>41</id>
+    <image>https://upload.wikimedia.org/wikipedia/commons/d/d7/Brownies.jpg</image>
+    <brand>Chocolat Favoris</brand>
+    <name>Brownies</name>
+    <weight>300g</weight>
+    <description>Chewy brownies made from 70% cocoa chocolate</description>
+    <price>4.99</price>
+    <type>Bread and Bakery</type>
+    <storagetype/>
+  </product>
+  <product>
+    <id>42</id>
+    <image>https://upload.wikimedia.org/wikipedia/commons/6/6f/Cinnamon_Roll.jpg</image>
+    <brand>Pillsbury</brand>
+    <name>Cinnamon roll</name>
+    <weight>50g</weight>
+    <description>A perfectly baked Cinnamon roll with pistachios and canberries</description>
+    <price>5.99</price>
+    <type>Bread and Bakery</type>
+    <storagetype>Shelf</storagetype>
+  </product>
+  <product>
+    <id>43</id>
+    <image>https://upload.wikimedia.org/wikipedia/commons/8/82/Box_of_Duck_Donuts_1.jpg</image>
+    <brand>St-Michel</brand>
+    <name>Donuts</name>
+    <weight>200g</weight>
+    <description>Box of 12. Assorted with different flavors to fit all tastes!</description>
+    <price/>
+    <type>Bread and Bakery</type>
+    <storagetype>Shelf</storagetype>
+  </product>
+  <product>
+    <id>44</id>
+    <image>https://upload.wikimedia.org/wikipedia/commons/0/06/Chocolate_cake_with_chocolate_frosting_topped_with_chocolate.jpg</image>
+    <brand>Ferrero</brand>
+    <name>Chocolate Cake</name>
+    <weight>500g</weight>
+    <description>A decadent dessert that will leave anyone touching it wanting more!</description>
+    <price>12.99</price>
+    <type>Bread and Bakery</type>
+    <storagetype>frozen</storagetype>
+  </product>
+  <product>
+    <id>45</id>
+    <image>https://upload.wikimedia.org/wikipedia/commons/7/7c/The_Holidays_at_-Disneyland_start_with_a_-cupcake._%28Really_tasty%2C_BTW%29_-dessertporn_-dessert_-foodporn_-pastries.jpg</image>
+    <brand>Two-bites</brand>
+    <name>Cupcakes</name>
+    <weight>200g</weight>
+    <description>Fun cupcakes that will sattisfy anyone's sugary tooth!</description>
+    <price>13.69</price>
+    <type>Bread and Bakery</type>
+    <storagetype>Refrigerated</storagetype>
+  </product>
+  <product>
+    <id>47</id>
+    <image>https://upload.wikimedia.org/wikipedia/commons/1/1f/Macaroons.jpg</image>
+    <brand>Laura Secord</brand>
+    <name>Macaroons</name>
+    <weight>400g</weight>
+    <description>Delicious coconut flavored Macaroons that will leave you breathless</description>
+    <price>8.99</price>
+    <type>Bread and Bakery</type>
+    <storagetype>Shelf</storagetype>
+  </product>
+  <product>
+    <id>47</id>
+    <image>https://upload.wikimedia.org/wikipedia/commons/3/3e/Oreo-Two-Cookies.jpg</image>
+    <brand>Nabisco</brand>
+    <name>Oreo</name>
+    <weight>300g</weight>
+    <description>The classic oreo cookies that go well with milk!</description>
+    <price>7.99</price>
+    <type>Bread and Bakery</type>
+    <storagetype>Shelf</storagetype>
+  </product>
+  <product>
+    <id>48</id>
+    <image>https://upload.wikimedia.org/wikipedia/commons/d/d2/Apple_raspberry_pie.jpg</image>
+    <brand>St-Donat</brand>
+    <name>Apple-Raspberry Pie</name>
+    <weight>200g</weight>
+    <description>A hearty apple pie to serve with some friends</description>
+    <price>5.99</price>
+    <type>Bread and Bakery</type>
+    <storagetype>Refrigerated</storagetype>
+  </product>
+  <product>
+    <id>49</id>
+    <image>https://upload.wikimedia.org/wikipedia/commons/1/1f/Pecan_Pie_slice.jpg</image>
+    <brand>St-Donat</brand>
+    <name>Pecan Pie</name>
+    <weight>200g</weight>
+    <description>A hearty pecan pie to serve with some friends</description>
+    <price>5.99</price>
+    <type>Bread and Bakery</type>
+    <storagetype>Refrigerated</storagetype>
+  </product>
+  <product>
+    <id>51</id>
+    <image>https://dummyimage.com/400x400</image>
+    <brand>Sprite</brand>
+    <name>Sprite Original Flavour</name>
+    <weight>100g</weight>
+    <description/>
+    <price>6.99</price>
+    <type>	Beverage</type>
+    <storagetype>Frigerator</storagetype>
+  </product>
+  <product>
+    <id>52</id>
+    <image>https://dummyimage.com/400x400</image>
+    <brand>Dr Pepper</brand>
+    <name>Dr Pepper Original Flavour</name>
+    <weight>100g</weight>
+    <description/>
+    <price>3.33</price>
+    <type>	Beverage</type>
+    <storagetype>Frigerator</storagetype>
+  </product>
+  <product>
+    <id>53</id>
+    <image>https://dummyimage.com/400x400</image>
+    <brand>Coca Cola</brand>
+    <name>Cherry Flavoured Coca - Cola</name>
+    <weight>200g</weight>
+    <description/>
+    <price>5.18</price>
+    <type>Beverage</type>
+    <storagetype>Frigerator</storagetype>
+  </product>
+  <product>
+    <id>54</id>
+    <image>https://dummyimage.com/400x400</image>
+    <brand>Red Bull</brand>
+    <name>Red Bull</name>
+    <weight>100g</weight>
+    <description/>
+    <price>2.99</price>
+    <type>Beverage</type>
+    <storagetype>Frigerator</storagetype>
+  </product>
+  <product>
+    <id>55</id>
+    <image>https://dummyimage.com/400x400</image>
+    <brand>Lipton</brand>
+    <name>Lipton Citrus Ice Tea</name>
+    <weight>200g</weight>
+    <description/>
+    <price>3.89</price>
+    <type>Beverage</type>
+    <storagetype>Frigerator</storagetype>
+  </product>
+  <product>
+    <id>56</id>
+    <image>https://dummyimage.com/400x400</image>
+    <brand>A&amp;W</brand>
+    <name> Original A&amp;W Rootbeer</name>
+    <weight>100g</weight>
+    <description/>
+    <price>4.28 </price>
+    <type>Beverage</type>
+    <storagetype>Frigerator</storagetype>
+  </product>
+  <product>
+    <id>61</id>
+    <image>https://dummyimage.com/400x400</image>
+    <brand>Kellogg's</brand>
+    <name>Raspberry cereal bars, Nutri-Grain</name>
+    <weight>295 g</weight>
+    <description>Kellogg's Nutri-Grain raspberry cereal bars are made with 8 g of whole grains per serving and are a source of fibre. It has a delicious filling made with real fruit and a soft baked texture you know and love from Nutri-Grain.</description>
+    <price>3.99</price>
+    <type>Other</type>
+    <storagetype>Shelf</storagetype>
+  </product>
+  <product>
+    <id>62</id>
+    <image>https://dummyimage.com/400x400</image>
+    <brand>Selection</brand>
+    <name>Ice cream cups</name>
+    <weight>18 un</weight>
+    <description>Get ready for summer fun with our ice cream cups.</description>
+    <price>1.79</price>
+    <type>Snacks</type>
+    <storagetype>Frozen</storagetype>
+  </product>
+  <product>
+    <id>63</id>
+    <image>https://dummyimage.com/400x400</image>
+    <brand>Royal Nuts</brand>
+    <name>Dried cranberries</name>
+    <weight>300 g</weight>
+    <description>Royal Nuts products are proudly Canadian, gluten free and made in a peanut free facility.</description>
+    <price>5.99</price>
+    <type>Snacks</type>
+    <storagetype>Shelf</storagetype>
+  </product>
+  <product>
+    <id>64</id>
+    <image>https://dummyimage.com/400x400</image>
+    <brand>Twizzlers</brand>
+    <name>Cherry Pull 'n' Peel Candy</name>
+    <weight>396 g</weight>
+    <description>Naturally and artificially flavoured candy.</description>
+    <price>3.99</price>
+    <type>Snacks</type>
+    <storagetype>Shelf</storagetype>
+  </product>
+  <product>
+    <id>65</id>
+    <image>https://dummyimage.com/400x400</image>
+    <brand>Nestlé</brand>
+    <name>Chocolate bar, Kit Kat</name>
+    <weight>45 g</weight>
+    <description>Have a break with this KitKat® bar made with a light crispy wafer covered in milk chocolate. This product is made with natural flavours.</description>
+    <price>2.22</price>
+    <type>Snacks</type>
+    <storagetype>Shelf</storagetype>
+  </product>
+  <product>
+    <id>66</id>
+    <image>https://dummyimage.com/400x400</image>
+    <brand>Vachon</brand>
+    <name>May West™ original cakes</name>
+    <weight>324 g</weight>
+    <description>Try the original May West™: a white moist cake filled with our special creme and coated in chocolate.</description>
+    <price>3.89</price>
+    <type>Snacks</type>
+    <storagetype>Shelf</storagetype>
+  </product>
+  <product>
+    <id>67</id>
+    <image>https://dummyimage.com/400x400</image>
+    <brand>Jell-O</brand>
+    <name>Strawberry flavoured gel snacks</name>
+    <weight>4x89 g</weight>
+    <description>Try the original strawberry flavoured gel snacks: a white red jelly snack.</description>
+    <price>3.29</price>
+    <type>Snacks</type>
+    <storagetype>Shelf</storagetype>
+  </product>
+  <product>
+    <id>68</id>
+    <image>https://dummyimage.com/400x400</image>
+    <brand>Schneiders</brand>
+    <name>Turkey breast snack kit</name>
+    <weight>75 g</weight>
+    <description>Try the original turkey breast snack kit.</description>
+    <price>5.29</price>
+    <type>Snacks</type>
+    <storagetype>Fridge</storagetype>
+  </product>
+  <product>
+    <id>69</id>
+    <image>https://dummyimage.com/400x400</image>
+    <brand>Orville Redenbacher's</brand>
+    <name>Gourmet™ original popping corn</name>
+    <weight>850 g</weight>
+    <description>Orville Redenbacher's® Gourmet™ popping corn is a very high source of fibre and contains no artificial colors and flavours.</description>
+    <price>4.99</price>
+    <type>Snacks</type>
+    <storagetype>Shelf</storagetype>
+  </product>
+</products>

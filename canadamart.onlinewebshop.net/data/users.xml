@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+  <user>
+    <id>1</id>
+    <role>admin</role>
+    <email>admin@canadamart.ca</email>
+    <password>$2y$10$5eCM8pvRIa6W01f49V195eqvPtsCHybJxwlmEmxi3O0qvzuxAMfn2</password>
+    <firstname>Canada</firstname>
+    <lastname>Mart</lastname>
+    <address>123 St</address>
+    <city>Montreal</city>
+    <province>QC</province>
+    <country>Canada</country>
+    <postalcode>h1h1h1</postalcode>
+  </user>
+<user><id>1</id><role>customer</role><email>j@gmail.com</email><password>$2y$10$TQZwmK45W7rLbIdvPciSZe/RhTB82w0V6WqxxoXqp5YjQJo2UfYJS</password><firstname>joey</firstname><lastname>gold</lastname><address>fsdfd</address><city>adasa</city><province>daa</province><country>dada</country><postalcode>dssad</postalcode></user><user><id>2</id><role>customer</role><email>f@gmail.com</email><password>$2y$10$0YyeO5/pkKih1WnCRrZdOOAWKfqeJ6dnYlHA5KAOhdugHc8hOpaI2</password><firstname>f</firstname><lastname>d</lastname><address>f</address><city>f</city><province>d</province><country>d</country><postalcode>gg</postalcode></user><user><id>3</id><password>$2y$10$mjaEvHGlb11LRRTNPuptGOylUBB00SitEkHFiEl86fqHpRMgI9E8G</password><role>admin</role><email>princess3@yahoo</email><firstname>m</firstname><lastname>lu</lastname><age/><address>mushroom kingdom</address><city>Montreal</city><province>Quebec</province><country>Canada</country><postalcode>34221</postalcode><password/></user><user><id>4</id><role>customer</role><email>user13@canadamarrt.ca</email><password>$2y$10$KOpYndc7aFzpwTIVuW4a6erfY56/77DpKbq/B04qWuZn4C/1m.6D6</password><firstname>abc</firstname><lastname>def</lastname><address>12 sadf</address><city>asdf</city><province>asdf</province><country>asdf</country><postalcode>h1h1h1</postalcode></user></users>
